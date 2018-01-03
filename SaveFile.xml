@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<SaveFileData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <mPlayerName>
+    <string>Neil</string>
+    <string>Shawn</string>
+    <string>Mark</string>
+    <string>Cindy</string>
+    <string>Sam</string>
+    <string>Neil</string>
+    <string>Shawn</string>
+    <string>Mark</string>
+    <string>Cindy</string>
+    <string>Player</string>
+  </mPlayerName>
+  <mScore>
+    <float>300000</float>
+    <float>200000</float>
+    <float>180000</float>
+    <float>160000</float>
+    <float>140000</float>
+    <float>100000</float>
+    <float>80000</float>
+    <float>50000</float>
+    <float>30000</float>
+    <float>15766.3516</float>
+  </mScore>
+  <Count>10</Count>
+</SaveFileData>
